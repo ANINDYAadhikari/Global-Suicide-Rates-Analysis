@@ -1,1 +1,0 @@
-# Global-Suicide-Rates-Analysis
