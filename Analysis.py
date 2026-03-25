@@ -18,7 +18,7 @@ plt.style.use('seaborn-v0_8')
 
 # ── Load Dataset ──────────────────────────────────────────────
 df = pd.read_csv(
-    r"C:\Users\anind\OneDrive\Desktop\PythonVSC\Project\Global Suicide Rates Analysis\data\global-suicide-rates-by-country-2000-2021.csv",
+    r"data\global-suicide-rates-by-country-2000-2021.csv",
     encoding='latin-1'
 )
 print("Dataset Loaded Successfully!\n")
