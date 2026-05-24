@@ -1,14 +1,9 @@
 
 **Author:** Anindya Adhikari
 
----
-
 ## 📌 Project Overview
-
 This project performs an in-depth **Explatory Data Analysis (EDA)** on global suicide rates across multiple countries from **2000 to 2021**.
-
 The goal is to uncover meaningful patterns, trends, and disparities based on:
-
 * 🌎 Country
 * 📅 Year
 * 👥 Age Group
