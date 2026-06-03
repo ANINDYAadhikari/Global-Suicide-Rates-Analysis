@@ -11,8 +11,6 @@ The goal is to uncover meaningful patterns, trends, and disparities based on:
 
 The analysis combines **statistical summaries** with **data visualizations** to provide insights into global mental health trends.
 
-
-
 ## 🎯 Objectives
 
 * Understand global suicide rate patterns over time
