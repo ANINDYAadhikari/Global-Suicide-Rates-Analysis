@@ -15,7 +15,6 @@ import seaborn as sns
 
 plt.style.use('seaborn-v0_8')
 
-
 # ── Load Dataset ──────────────────────────────────────────────
 df = pd.read_csv(r"data\global-suicide-rates-by-country-2000-2021.csv", encoding='latin-1')
 print("Dataset Loaded Successfully!\n")
